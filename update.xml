@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
   <version>2.0.0.0</version>
-  <url>https://drive.google.com/uc?export=download&id=1iFX6sDHGujQmo9AcazADPM_mlGIhlNLz</url>
+  <url>https://github.com/lils0uxz/UpdateVersion/releases/download/v2.0.0.0/TestAutoUpdate.zip</url>
   <changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
   <mandatory mode="2">true</mandatory>
 </item>
